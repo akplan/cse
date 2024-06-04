@@ -1,0 +1,9 @@
+:root {
+    --pico-font-family: "Electrolize", sans-serif;
+}
+
+.brand {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 110%;
+}
